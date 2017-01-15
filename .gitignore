@@ -243,3 +243,6 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/TechnicalTest/DataFiles/test.csv
+/TechnicalTest/DataFiles/names.txt
+/TechnicalTest/DataFiles/addresses.txt
